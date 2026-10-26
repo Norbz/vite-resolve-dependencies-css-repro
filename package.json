@@ -1,0 +1,12 @@
+{
+  "name": "vite-resolve-dependencies-css-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "repro": "node repro.mjs"
+  },
+  "devDependencies": {
+    "vite": "8.3.5"
+  }
+}
